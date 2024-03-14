@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayazahmad18" alt="ayazahmad18" /></a> </p>
 
-- 🔭 I’m currently working on **BlooDex**
+- 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **React.js**
 
 - 🤝 I’m looking for a New Role **Software Engineer**
 
